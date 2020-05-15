@@ -1,0 +1,26 @@
+[
+{
+    "model": "portfolio.project",
+    "pk": 1,
+    "fields": {
+        "title": "Dise\u00f1o sobre envases pl\u00e1sticos",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque ultricies sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed vitae lorem urna. Cras euismod mauris leo, at semper ipsum rhoncus quis. Proin eget sem vel dui sodales vehicula. Phasellus eget malesuada turpis. Aenean hendrerit posuere felis vitae egestas. Pellentesque ac pharetra libero, viverra efficitur neque. Aliquam pellentesque tortor a est vehicula, quis porttitor erat interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque enim augue, molestie quis justo a, facilisis posuere velit. Curabitur varius ultricies cursus. Phasellus convallis fringilla justo, nec gravida dui varius eu. Nulla tincidunt ac nunc ac pharetra. Duis lobortis ultrices libero, sed faucibus tellus accumsan at. Proin ut diam purus.",
+        "image": "projects/original.jpg",
+        "url": null,
+        "created": "2020-05-15T09:20:55.908Z",
+        "updated": "2020-05-15T12:20:34.549Z"
+    }
+},
+{
+    "model": "portfolio.project",
+    "pk": 2,
+    "fields": {
+        "title": "Proyecto cierre facil",
+        "description": "Sed urna metus, mattis et mi quis, hendrerit mollis libero. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse cursus in nulla consequat lacinia. Integer consequat tellus lacus, nec tincidunt turpis porta laoreet. Donec ornare varius tincidunt. Nullam a lacus nisl. Phasellus non blandit orci, quis placerat leo. Suspendisse hendrerit eu neque id sagittis. Mauris id ligula accumsan, gravida orci et, dapibus est. Aliquam leo nisl, vulputate vel massa sit amet, imperdiet volutpat nisi. Duis pellentesque quam quam, euismod laoreet enim blandit ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean sed urna id nibh laoreet accumsan ut id libero. Fusce rhoncus metus in odio laoreet, sit amet rutrum nunc suscipit. Fusce nec eleifend nulla, nec iaculis ante.",
+        "image": "projects/original_1.jpg",
+        "url": "https://www.aimplas.es/blog/envases-alimentarios-con-cierre-hermetico-y-tapado-en-un-solo-paso/",
+        "created": "2020-05-15T15:05:28.780Z",
+        "updated": "2020-05-15T15:12:38.043Z"
+    }
+}
+]
